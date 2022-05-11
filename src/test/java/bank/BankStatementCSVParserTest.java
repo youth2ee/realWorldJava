@@ -30,7 +30,6 @@ class BankStatementCSVParserTest {
         Assert.assertEquals(expected.getDescription(), result.getDescription());
 	
         
-        test
 	}
 
 }
