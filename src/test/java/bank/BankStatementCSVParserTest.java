@@ -6,8 +6,8 @@ import java.time.Month;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-import com.iteratrlearning.shu_book.chapter_02.BankStatementCSVParser;
-import com.iteratrlearning.shu_book.chapter_02.BankTransaction;
+import com.iteratrlearning.shu_book.chapter.BankStatementCSVParser;
+import com.iteratrlearning.shu_book.chapter.BankTransaction;
 
 class BankStatementCSVParserTest {
 
